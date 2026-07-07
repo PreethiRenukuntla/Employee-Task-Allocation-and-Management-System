@@ -46,4 +46,4 @@ Use these accounts to test the role-based dashboards:
 
 ---
 
-Built as an optimal showcase of agentic full-stack development, prioritizing visual excellence and structured codebase best practices.
+This project demonstrates my full-stack development skills using the MERN stack, including secure authentication, role-based access control, task management, and responsive UI design.
